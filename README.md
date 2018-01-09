@@ -50,3 +50,6 @@ adb shell input swipe x y x y time(ms)
 - 176740763 (500人 已满)
 - 89213434 (2000人 已满)
 - 64389940 (2000人)
+
+
+modified
